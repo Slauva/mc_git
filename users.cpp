@@ -1,4 +1,4 @@
 
 class Users {
-	int level;
-}
+    int level;
+};
